@@ -1,0 +1,16 @@
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Arrays\arrays\arrays\bin\Debug\net5.0\arrays.exe
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Arrays\arrays\arrays\bin\Debug\net5.0\arrays.deps.json
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Arrays\arrays\arrays\bin\Debug\net5.0\arrays.runtimeconfig.json
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Arrays\arrays\arrays\bin\Debug\net5.0\arrays.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Arrays\arrays\arrays\bin\Debug\net5.0\arrays.dll
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Arrays\arrays\arrays\bin\Debug\net5.0\arrays.pdb
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Arrays\arrays\arrays\obj\Debug\net5.0\arrays.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Arrays\arrays\arrays\obj\Debug\net5.0\arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Arrays\arrays\arrays\obj\Debug\net5.0\arrays.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Arrays\arrays\arrays\obj\Debug\net5.0\arrays.AssemblyInfo.cs
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Arrays\arrays\arrays\obj\Debug\net5.0\arrays.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Arrays\arrays\arrays\obj\Debug\net5.0\arrays.dll
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Arrays\arrays\arrays\obj\Debug\net5.0\refint\arrays.dll
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Arrays\arrays\arrays\obj\Debug\net5.0\arrays.pdb
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Arrays\arrays\arrays\obj\Debug\net5.0\arrays.genruntimeconfig.cache
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Arrays\arrays\arrays\obj\Debug\net5.0\ref\arrays.dll

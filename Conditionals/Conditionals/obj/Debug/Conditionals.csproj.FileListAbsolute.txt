@@ -1,0 +1,6 @@
+C:\Users\acer\Desktop\Bilal Karakan\C#_apps\Conditionals\Conditionals\bin\Debug\Conditionals.exe.config
+C:\Users\acer\Desktop\Bilal Karakan\C#_apps\Conditionals\Conditionals\bin\Debug\Conditionals.exe
+C:\Users\acer\Desktop\Bilal Karakan\C#_apps\Conditionals\Conditionals\bin\Debug\Conditionals.pdb
+C:\Users\acer\Desktop\Bilal Karakan\C#_apps\Conditionals\Conditionals\obj\Debug\Conditionals.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\Bilal Karakan\C#_apps\Conditionals\Conditionals\obj\Debug\Conditionals.exe
+C:\Users\acer\Desktop\Bilal Karakan\C#_apps\Conditionals\Conditionals\obj\Debug\Conditionals.pdb
