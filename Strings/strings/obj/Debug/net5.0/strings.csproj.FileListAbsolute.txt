@@ -1,0 +1,16 @@
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Strings\strings\bin\Debug\net5.0\strings.exe
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Strings\strings\bin\Debug\net5.0\strings.deps.json
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Strings\strings\bin\Debug\net5.0\strings.runtimeconfig.json
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Strings\strings\bin\Debug\net5.0\strings.runtimeconfig.dev.json
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Strings\strings\bin\Debug\net5.0\strings.dll
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Strings\strings\bin\Debug\net5.0\strings.pdb
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Strings\strings\obj\Debug\net5.0\strings.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Strings\strings\obj\Debug\net5.0\strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Strings\strings\obj\Debug\net5.0\strings.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Strings\strings\obj\Debug\net5.0\strings.AssemblyInfo.cs
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Strings\strings\obj\Debug\net5.0\strings.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Strings\strings\obj\Debug\net5.0\strings.dll
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Strings\strings\obj\Debug\net5.0\refint\strings.dll
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Strings\strings\obj\Debug\net5.0\strings.pdb
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Strings\strings\obj\Debug\net5.0\strings.genruntimeconfig.cache
+C:\Users\Acer\Desktop\BilalKarakan\C#_apps\Strings\strings\obj\Debug\net5.0\ref\strings.dll
