@@ -6,6 +6,15 @@ namespace interfaces
     {
         static void Main(string[] args)
         {
+            //interfacesIntro();
+            CustomerManager customerManager = new CustomerManager();
+            customerManager.Add(new SqlServerCustomerDal());
+            customerManager.Add(new OracleCustomerDal());
+            Console.ReadLine();
+        }
+
+        private static void interfacesIntro()
+        {
             PersonalManager manager = new PersonalManager();
             Customer customer = new Customer { Id=1, FirstName="Bilal", LastName="Karakan", Address="İstanbul"};
             manager.Add(customer);
@@ -21,10 +30,8 @@ namespace interfaces
             };
             manager.Add(student);
             manager.Add(new Worker { Id= 3, FirstName="Bill", LastName="Gates", Department="Microsoft" });
-
-            Console.ReadLine();
-
         }
+
             interface IPerson
         {
             int Id { get; set; }
